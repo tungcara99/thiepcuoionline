@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mew.mewedding.vn	TRUE	/fullUrl	FALSE	1999999999	LADI_FORM_SUBMIT	0
+mew.mewedding.vn	TRUE	/fullUrl	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+mew.mewedding.vn	TRUE	/fullUrl	FALSE	1999999999	LADI_PAGE_VIEW	1
+mew.mewedding.vn	TRUE	/fullUrl	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+mew.mewedding.vn	TRUE	/maily	FALSE	1999999999	LADI_FORM_SUBMIT	0
+mew.mewedding.vn	TRUE	/maily	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+mew.mewedding.vn	TRUE	/maily	FALSE	1999999999	LADI_PAGE_VIEW	2
+mew.mewedding.vn	TRUE	/maily	FALSE	1999999999	LADI_PAGE_VIEW_PATH	2
+mew.mewedding.vn	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	b2353b36-780a-4961-55c2-41a88bfb3406
+mew.mewedding.vn	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2026-02-26 16:07:56.683983845 +0000 UTC m=+778684.409720973"
+
